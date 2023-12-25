@@ -124,7 +124,7 @@ const Navbar = () => {
               </motion.li>
             </Link>
           </ul>
-          <a href="/assets/musaAbdullahi.pdf" target="_blank">
+          <a href="/assets/abdullastestcv.pdf" target="_blank">
             <motion.button
               className="px-4 rounded-md text-textGreen text-[13px] border-textGreen hover:bg-hoverColor duration-300"
               initial={{ opacity: 0 }}
